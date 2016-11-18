@@ -7,7 +7,7 @@ namespace MOBase { class IProfile; }
 
 #include <QStringList>
 
-class Fallout4DataArchives : public GamebryoDataArchives
+class SkyrimSEDataArchives : public GamebryoDataArchives
 {
 
 public:
@@ -21,4 +21,4 @@ private:
 
 };
 
-#endif // FALLOUT4DATAARCHIVES_H
+#endif // SKYRIMSEDATAARCHIVES_H
